@@ -45,7 +45,7 @@ const md = require("markdown-it")({
 
       const imgCreditComponent = imgCreditDataComponent.JeremyBishop + imgCreditDataComponent.MatheusCosta;
 
-      //
+    
     //actionprofilecommit check => [push-updates-to-your-profile-page] (https://github.com/marketplace/actions/push-updates-to-your-profile-page)
     const actionprofilecommit = '<!-- START gadpp -->'
 
