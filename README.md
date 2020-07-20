@@ -4,13 +4,22 @@
     <img src="https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/banner.png">
 </p>
 
+I´m a programming student, my objective is become a javascript fullstack developer.
+
+<br>
+
+### 📖 Currently i am learning:
+* [React Js](https://github.com/facebook/react)
+
+* [Express Js](https://github.com/expressjs/express)
+
+* [Electron Js](https://github.com/electron/electron)
+
 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 
