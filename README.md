@@ -27,10 +27,6 @@ I am a maker too, i love doing projects with arduino or raspberry pi.
     <img width="100" height="auto" src="https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/scrolldown.gif">
 </p>
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <br>
 <br>
 
