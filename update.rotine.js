@@ -5,9 +5,6 @@ const md = require("markdown-it")({
   });
   const emoji = require('markdown-it-emoji');
   const fs = require("fs");
-  const Parser = require("rss-parser");
-  
-  const parser = new Parser();
     
   md.use(emoji);
   
