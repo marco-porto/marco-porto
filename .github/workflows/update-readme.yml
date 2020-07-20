@@ -2,9 +2,7 @@ name: Update GitHub Profile Page - Auto Update README
 
 on:
   push:
-  workflow_dispatch:
-  schedule:
-    - cron:  '32 * * * *'
+
 
 jobs:
   build:
