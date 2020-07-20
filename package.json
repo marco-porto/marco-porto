@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/4SMarcoPorto/4SMarcoPorto/issues"
   },
-  "homepage": "https://github.com/4SMarcoPorto/4SMarcoPorto#readme"
+  "homepage": "https://github.com/4SMarcoPorto/4SMarcoPorto#readme",
+  "dependencies": {
+    "markdown-it": "^11.0.0"
+  }
 }
