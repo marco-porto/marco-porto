@@ -1,9 +1,10 @@
 {
   "name": "4SMarcoPorto",
   "version": "1.0.0",
-  "description": "<p align=\"center\">\r     <img src=\"https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/banner.png\">\r </p>",
-  "main": "index.js",
+  "description": "<!-- **4SMarcoPorto/4SMarcoPorto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "update.rotine.js",
   "scripts": {
+    "start": "node update.rotine.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
