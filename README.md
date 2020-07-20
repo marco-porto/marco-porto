@@ -4,7 +4,9 @@
     <img src="https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/banner.png">
 </p>
 
-I´m a programming student, my objective is become a javascript fullstack developer.
+I\`m a programming student, my objective is become a javascript fullstack developer. 
+
+I`m a maker too, i love doing projects with arduino or raspberry pi.
 
 <br>
 
