@@ -6,7 +6,7 @@
 
 I am a programming student, my goal is to become a full stack javascript developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
 
-I`m a maker too, i love doing projects with arduino or raspberry pi.
+I am a maker too, i love doing projects with arduino or raspberry pi.
 
 <br>
 
