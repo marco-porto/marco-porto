@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/banner.png">
 </p>
 
-I am a programming student, my goal is to become a full stack javascript developer. 
+I am a programming student, my goal is to become a full stack javascript developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
 
 I`m a maker too, i love doing projects with arduino or raspberry pi.
 
