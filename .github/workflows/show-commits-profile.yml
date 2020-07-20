@@ -12,7 +12,7 @@ jobs:
         uses: umutphp/github-action-dynamic-profile-page@v2
         id: gadpp
         env:
-          API_TOKEN_GITHUB: ${{ f063b3cab86d64a4b51ff5d19b5b3d1d318aef8f }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB  }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github-username: '4SMarcoPorto'
