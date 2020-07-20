@@ -1,0 +1,19 @@
+name: Update GitHub Profile Page - Commit List Update
+on: [push]
+
+jobs:
+  gadpp_job:
+    runs-on: ubuntu-latest
+    name: Update GitHub Profile Page - Commit List Update
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v2
+        id: gadpp
+        env:
+          API_TOKEN_GITHUB: ${{ f063b3cab86d64a4b51ff5d19b5b3d1d318aef8f }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github-username: '4SMarcoPorto'
+          user-email: 'marcoporto2011@hotmail.com'

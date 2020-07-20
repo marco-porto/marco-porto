@@ -45,13 +45,16 @@ const md = require("markdown-it")({
 
       const imgCreditComponent = imgCreditDataComponent.JeremyBishop + imgCreditDataComponent.MatheusCosta;
 
+      
+    //actionprofilecommit check => [push-updates-to-your-profile-page] (https://github.com/marketplace/actions/push-updates-to-your-profile-page)
+    const actionprofilecommit = '<!-- START gadpp -->'
 
     //document
 
     const headerReadme = '# Hi, I´m Marco 👋🏻';
     const bodyReadme = bannerComponent + br + bioComponent + br + br + br + currentlyLearnComponent + br + scrolldownComponent + br + imgCreditComponent
 
-    const document = headerReadme + breakline + bodyReadme
+    const document = headerReadme + breakline + bodyReadme + breakline + actionprofilecommit
 
     const result = md.render(document);
   

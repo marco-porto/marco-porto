@@ -1,4 +1,4 @@
-name: Auto Update README
+name: Update GitHub Profile Page - Auto Update README
 
 on:
   push:
