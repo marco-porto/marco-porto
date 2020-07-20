@@ -1,4 +1,4 @@
-# Hi, I´m Marco 👋
+# Hi, I´m Marco 👋🏻
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/banner.png">
@@ -11,9 +11,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 
