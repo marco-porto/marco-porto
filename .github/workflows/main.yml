@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: 4SMarcoPorto@1v
+      uses: 4SMarcoPorto/4SMarcoPorto@1v
       with:
         who-to-greet: 'Mona the Octocat'
     # Use the output from the `hello` step
