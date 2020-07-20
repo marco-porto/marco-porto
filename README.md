@@ -27,7 +27,7 @@ I`m a maker too, i love doing projects with arduino or raspberry pi.
 
 
 <p align="center">
-    Check out my repo
+    Check out my projects
 </p>
 <p align="center">
     <img width="100" height="auto" src="https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/scrolldown.gif">
