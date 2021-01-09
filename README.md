@@ -1,16 +1,13 @@
 <h1>Hi, I´m Marco 👋🏻</h1>
-
-<p align='center'>
-    <img src='https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/banner.png'>
-</p>
 <br>
 
-I am a programming student, my goal is to become a javascript fullstack developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
-I am a maker too, i love doing projects with arduino or raspberry pi.
+I am a programming student, currently studying computer engineering, my goal is to become a javascript fullstack developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
+I am also a diy maker, i love to do projects with arduino, raspberry pi or anything with a microprocessor 😁.
 
-<br><br><br>
+<br>
+<br>
 
-<h3>📖 Currently i am learning:</h3>
+<h3>📖 Trying to have time to learn:</h3>
 <br>
 <ul>
     <li>
@@ -44,14 +41,30 @@ I am a maker too, i love doing projects with arduino or raspberry pi.
         </p>
     </li>
 </ul>
+
+<h3>📖 Currently working with:</h3>
 <br>
-<p align='center'>Check out my projects</p><p align='center'>
-    <img width='100' height='auto' src='https://raw.githubusercontent.com/4SMarcoPorto/4SMarcoPorto/master/README.assets/scrolldown.gif'>
-</p>
-<br>
-<h5>Image by 
-    <a href="https://unsplash.com/photos/KrHNUF7rd3U">Unsplash - Jeremy Bishop</a>
-</h5>
-<h5>Gif by 
-    <a href="https://lottiefiles.com/24437-scroll-down">Lottiefiles - Matheus Costa</a>
-</h5>
+<ul>
+    <li>
+        <p>
+           <a href="#">C</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://www.php.net/docs.php">Php</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://dev.mysql.com/">Mysql</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://github.com/expressjs/express">JavaScript</a>
+        </p>
+    </li>
+</ul>
+
+
