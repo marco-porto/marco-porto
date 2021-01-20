@@ -86,11 +86,6 @@ I love talk about space exploration, EV cars and tech in general.
             <a href="https://clickup.com/">Click up</a>
         </p>
     </li>
-    <li>
-        <p>
-            Etc...
-        </p>
-    </li>
 </ul>
 
 
