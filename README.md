@@ -10,11 +10,6 @@ I love talk about space exploration, EV cars and tech in general.
 <ul>
     <li>
         <p>
-            <a href="https://github.com/facebook/react">React Js</a>
-        </p>
-    </li>
-    <li>
-        <p>
             <a href="https://nextjs.org/">Next Js</a>
         </p>
     </li>
@@ -30,12 +25,7 @@ I love talk about space exploration, EV cars and tech in general.
     </li>
     <li>
         <p>
-            <a href="https://github.com/prisma/prisma">Prisma</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://github.com/postgres/postgres">Postgre SQL</a>
+            <a href="https://flutter.dev/">Flutter</a>
         </p>
     </li>
 </ul>
