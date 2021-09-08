@@ -53,29 +53,3 @@ I love talk about space exploration, EV cars and tech in general.
         </p>
     </li>
 </ul>
-<br>
-<h3>🧪 Some software that i use:</h3>
-<ul>
-    <li>
-        <p>
-           <a href="https://code.visualstudio.com/">Visual Studio Code</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://www.figma.com/">Figma</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://github.com/marco-porto">Github (of course 🤣)</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://clickup.com/">Click up</a>
-        </p>
-    </li>
-</ul>
-
-
