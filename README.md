@@ -1,7 +1,7 @@
 <h1>Hi, I´m Marco 👋🏻</h1>
 <br>
 
-I am a programming student, currently studying computer engineering, my goal is to become a javascript fullstack developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
+I am a programming student, currently studying computer engineering, my goal is to become a fullstack webdeveloper. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
 I am also a diy maker, i love to do projects with arduino, raspberry pi or anything with a microprocessor 😁.
 I love talk about space exploration, EV cars and tech in general.
 
