@@ -6,6 +6,13 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
 I love talk about space exploration, EV cars and tech in general.
 
 <br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=marco-porto&show_icons=true&theme=default&include_all_commits=true" alt="marco-port github stats">
+</div>
+
+<br>
+
 <h3>📖 Trying to have time to learn:</h3>
 <ul>
     <li>
@@ -53,3 +60,8 @@ I love talk about space exploration, EV cars and tech in general.
         </p>
     </li>
 </ul>
+
+<br>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact" alt="marco-porto most used language">
+</div>
