@@ -63,5 +63,5 @@ I love talk about space exploration, EV cars and tech in general.
 
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="180em"  alt="marco-porto most used language">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" alt="marco-porto most used language">
 </div>
