@@ -7,25 +7,54 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
 <br>
 
 
-```json
-[{
-    "title":"📖 Trying to have time to learn",
-    "list":[
-        "Next Js",
-        "Express Js",
-        "Typescript",
-        "Flutter"
-    ]
-},{
-    "title":"📖 Currently working with",
-    "list":[
-        "C",
-        "Php",
-        "Mysql",
-        "JavaScript"
-    ]
-}] 
-```
+<h3>📖 Trying to have time to learn:</h3>
+<ul>
+    <li>
+        <p>
+            <a href="https://nextjs.org/">Next Js</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://github.com/expressjs/express">Express Js</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://github.com/microsoft/TypeScript">Typescript</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://flutter.dev/">Flutter</a>
+        </p>
+    </li>
+</ul>
+<br>
+<h3>📖 Currently working with:</h3>
+<ul>
+    <li>
+        <p>
+           <a href="#">C</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://www.php.net/docs.php">Php</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://dev.mysql.com/">Mysql</a>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="#">JavaScript</a>
+        </p>
+    </li>
+</ul>
+
 
 <br>
 
