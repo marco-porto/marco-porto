@@ -8,7 +8,7 @@ I love talk about space exploration, EV cars and tech in general.
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=marco-porto&show_icons=true&theme=city_lights&include_all_commits=true" alt="marco-port github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=marco-porto&show_icons=true&theme=github_dark&include_all_commits=true" alt="marco-port github stats">
 </div>
 
 <br>
@@ -63,5 +63,5 @@ I love talk about space exploration, EV cars and tech in general.
 
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=city_lights  " alt="marco-porto most used language">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark " alt="marco-porto most used language">
 </div>
