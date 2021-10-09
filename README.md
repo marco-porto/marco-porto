@@ -58,11 +58,11 @@ I love talk about space exploration, EV cars and tech in general.
 <br>
 
 <div align="center">
-<a href="">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-porto&theme=github_dark&include_all_commits=true" 
   height="145em"/>
 </a>
-<a href="">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="145em"/>
 </a>
 </div>
