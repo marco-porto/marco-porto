@@ -5,7 +5,6 @@ I am a programming student, currently studying computer engineering, my goal is 
 I am also a diy maker, i love to do projects with arduino, raspberry pi or anything with a microprocessor 😁.
 I love talk about space exploration, EV cars and tech in general.
 
-
 <br>
 
 <h3>📖 Trying to have time to learn:</h3>
@@ -61,10 +60,10 @@ I love talk about space exploration, EV cars and tech in general.
 <div align="center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-porto&show_icons=true&theme=github_dark&include_all_commits=true" 
-  height="140em"/>
+  height="145em"/>
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="140em"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="145em"/>
 </a>
 </div>
 
