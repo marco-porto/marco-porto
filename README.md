@@ -9,22 +9,22 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
 <ul>
     <li>
         <p>
-            <a href="https://nextjs.org/">Next Js</a>
+            <a href="https://nextjs.org/" target=“_blank”>Next Js</a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://github.com/expressjs/express">Express Js</a>
+            <a href="https://github.com/expressjs/express" target=“_blank”>Express Js</a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://github.com/microsoft/TypeScript">Typescript</a>
+            <a href="https://github.com/microsoft/TypeScript" target=“_blank”>Typescript</a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://flutter.dev/">Flutter</a>
+            <a href="https://flutter.dev/" target=“_blank”>Flutter</a>
         </p>
     </li>
 </ul>
@@ -38,12 +38,12 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
     </li>
     <li>
         <p>
-            <a href="https://www.php.net/docs.php">Php</a>
+            <a href="https://www.php.net/docs.php" target=“_blank”>Php</a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://dev.mysql.com/">Mysql</a>
+            <a href="https://dev.mysql.com/" target=“_blank”>Mysql</a>
         </p>
     </li>
     <li>
