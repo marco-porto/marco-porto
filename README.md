@@ -1,4 +1,4 @@
-<h1>Hi, I´m Marco 👋🏻</h1>
+<h1>Hi, I´m Marco <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px"></h1>
 <br>
 
 I am a programming student, currently studying computer engineering, my goal is to become a fullstack webdeveloper. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
