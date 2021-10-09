@@ -67,5 +67,5 @@ I love talk about space exploration, EV cars and tech in general.
 </div>
 
 <div align="center">
-    <img src="./assets/animation.gif">
+    <img width="50%" src="./assets/animation.gif">
 </div>
