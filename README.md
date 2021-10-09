@@ -9,16 +9,16 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
 
 ```json
 [{
-    title:"📖 Trying to have time to learn",
-    list:[
+    "title":"📖 Trying to have time to learn",
+    "list":[
         "Next Js",
         "Express Js",
         "Typescript",
         "Flutter"
     ]
 },{
-    title:"📖 Currently working with",
-    list:[
+    "title":"📖 Currently working with",
+    "list":[
         "C",
         "Php",
         "Mysql",
