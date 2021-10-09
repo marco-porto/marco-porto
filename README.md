@@ -5,7 +5,7 @@ I am a programming student, currently studying computer engineering, my goal is 
 I am also a diy maker, i love to do projects with arduino, raspberry pi or anything with a microprocessor. I love talk about space exploration, EV cars and tech in general.
 
 <br>
-<h3>📖 Trying to have time to learn</h3>
+<h3>🛰 Trying to have time to learn</h3>
 <ul>
     <li>
         <p>
@@ -29,7 +29,7 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
     </li>
 </ul>
 <br>
-<h3>📖 Currently working with</h3>
+<h3>🚀 Currently working with</h3>
 <ul>
     <li>
         <p>
