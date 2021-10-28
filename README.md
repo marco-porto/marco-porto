@@ -27,6 +27,11 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
             <a href="https://flutter.dev/" target=“_blank”>Flutter</a>
         </p>
     </li>
+    <li>
+        <p>
+            <a href="http://elixir-lang.org/" target=“_blank”>Elixir</a>
+        </p>
+    </li>
 </ul>
 <br>
 <h3>🚀 Currently working with</h3>
