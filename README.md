@@ -1,4 +1,6 @@
 <h1>Hi, I´m Marco <img src="./assets/hi.gif" width="40px"></h1>
+<img src="https://visitor-badge.glitch.me/badge?page_id=marco-porto">
+<br>
 <br>
 
 I am a programming student, currently studying computer engineering, my goal is to become a fullstack webdeveloper. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
