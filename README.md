@@ -14,16 +14,6 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
     </li>
     <li>
         <p>
-            <a href="https://github.com/expressjs/express" target=“_blank”>Express Js</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://github.com/microsoft/TypeScript" target=“_blank”>Typescript</a>
-        </p>
-    </li>
-    <li>
-        <p>
             <a href="https://flutter.dev/" target=“_blank”>Flutter</a>
         </p>
     </li>
