@@ -20,6 +20,11 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
     </li>
     <li>
         <p>
+            <a href="https://nodejs.org/en/" target=“_blank”>Nodejs</a>
+        </p>
+    </li>
+    <li>
+        <p>
             <a href="http://elixir-lang.org/" target=“_blank”>Elixir</a>
         </p>
     </li>
