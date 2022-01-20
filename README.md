@@ -33,17 +33,12 @@ I am also a diy maker, i love to do projects with arduino, raspberry pi or anyth
 <ul>
     <li>
         <p>
-           <a href="#">C</a>
+            <a href="https://www.php.net/docs.php">Php</a>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://www.php.net/docs.php" target=“_blank”>Php</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://dev.mysql.com/" target=“_blank”>Mysql</a>
+            <a href="https://dev.mysql.com/">Mysql</a>
         </p>
     </li>
     <li>
