@@ -23,25 +23,7 @@ I am a programming student, currently studying computer engineering, my goal is 
     </li>
 </ul>
 <br>
-<h3>🚀 Currently working with</h3>
-<ul>
-    <li>
-        <p>
-            <a href="https://www.php.net/docs.php">Php</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://dev.mysql.com/">Mysql</a>
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="#">JavaScript</a>
-        </p>
-    </li>
-</ul>
-<br>
+
 <h3>🧪 Github Status</h3>
 <div align="center">
 <a href="#">
