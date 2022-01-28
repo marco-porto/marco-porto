@@ -1,10 +1,13 @@
 <h1>Marco Porto</h1>
 
-<p float="left">
-<img src="./assets/twitter.png" width="100"/>
-<img src="./assets/linkedin.png" width="100"/>
-</p>
-<br>
+<div align="left">
+    <a href="https://www.linkedin.com/in/marco-porto-here/">
+        <img align="center" src="./assets/linkedin.png" height="30em"/>
+    </a>
+    <a href="#">
+        <img align="center" src="./assets/twitter.png" height="30em"/>
+    </a>
+</div>
 <br>
 
 I'm Marco, a developer currently studying computer engineering, my goal is to become a mobile and full-stack web developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
@@ -36,11 +39,11 @@ My programming study focus is the web and mobile development area, I'm studying 
 
 <h3>🧪 Github Status</h3>
 <div align="center">
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-porto&theme=github_dark&include_all_commits=true" 
-  height="145em"/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="145em"/>
-</a>
+    <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-porto&theme=github_dark&include_all_commits=true" 
+    height="145em"/>
+    </a>
+    <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="145em"/>
+    </a>
 </div>
