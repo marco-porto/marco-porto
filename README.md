@@ -1,7 +1,9 @@
 <h1>Marco Porto</h1>
 
-<img src="./assets/twitter.png"/>
-<img src="./assets/linkedin.png"/>
+<p float="left">
+<img src="./assets/twitter.png" width="100"/>
+<img src="./assets/linkedin.png" width="100"/>
+</p>
 <br>
 <br>
 
