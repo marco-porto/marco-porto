@@ -21,11 +21,6 @@ I am a programming student, currently studying computer engineering, my goal is 
             <a href="https://nodejs.org/en/" target=“_blank”>Nodejs</a>
         </p>
     </li>
-    <li>
-        <p>
-            <a href="http://elixir-lang.org/" target=“_blank”>Elixir</a>
-        </p>
-    </li>
 </ul>
 <br>
 <h3>🚀 Currently working with</h3>
@@ -56,8 +51,4 @@ I am a programming student, currently studying computer engineering, my goal is 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-porto&layout=compact&theme=github_dark" height="145em"/>
 </a>
-</div>
-<br>
-<div align="center">
-    <img width="50%" src="./assets/animation.gif">
 </div>
