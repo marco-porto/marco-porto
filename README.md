@@ -2,10 +2,10 @@
 
 <div align="left">
     <a href="https://www.linkedin.com/in/marco-porto-here/">
-        <img align="center" src="./assets/linkedin.png" height="30em"/>
+        <img align="center" src="./assets/linkedin.png" height="28em"/>
     </a>
     <a href="#">
-        <img align="center" src="./assets/twitter.png" height="30em"/>
+        <img align="center" src="./assets/twitter.png" height="28em"/>
     </a>
 </div>
 <br>
