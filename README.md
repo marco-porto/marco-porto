@@ -1,24 +1,27 @@
 <h1>Hi, I´m Marco</h1>
 <br>
+I'm Marco, a developer currently studying computer engineering, my goal is to become a mobile and full-stack web developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
 
-I am a programming student, currently studying computer engineering, my goal is to become a full-stack web developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more. I enjoy doing projects that involve Arduinos, Raspberry pies, or anything with a microprocessor. I am a big space exploration nerd, actually, everything that has tech on its name fascinates me.
+I love doing projects that involve Arduino or raspberry pies. I'm a big space exploration nerd, everything that involves technology fascinates me.
+
+My programming study focus is the web and mobile development area, I'm studying frameworks, like Next js and Express and I intend to study Flutter, however, I'm always ready to learn new technologies and frameworks.
 
 <br>
 <h3>🛰 Trying to have time to learn</h3>
 <ul>
     <li>
         <p>
-            <a href="https://nextjs.org/" target=“_blank”>Next Js</a>
+            Next Js
         </p>
     </li>
     <li>
         <p>
-            <a href="https://flutter.dev/" target=“_blank”>Flutter</a>
+            Flutter
         </p>
     </li>
     <li>
         <p>
-            <a href="https://nodejs.org/en/" target=“_blank”>Nodejs</a>
+            Nodejs
         </p>
     </li>
 </ul>
