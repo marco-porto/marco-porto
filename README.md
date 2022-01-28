@@ -1,9 +1,9 @@
 <h1>Hi, I´m Marco</h1>
 <br>
 I'm Marco, a developer currently studying computer engineering, my goal is to become a mobile and full-stack web developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
-
+<br>
 I love doing projects that involve Arduino or raspberry pies. I'm a big space exploration nerd, everything that involves technology fascinates me.
-
+<br>
 My programming study focus is the web and mobile development area, I'm studying frameworks, like Next js and Express and I intend to study Flutter, however, I'm always ready to learn new technologies and frameworks.
 
 <br>
