@@ -11,7 +11,7 @@ My programming study focus is the web and mobile development area, I'm studying 
 <ul>
     <li>
         <p>
-            Next Js
+            Nextjs
         </p>
     </li>
     <li>
