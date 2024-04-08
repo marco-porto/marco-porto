@@ -16,26 +16,6 @@ I love doing projects that involve Arduino or Raspberry pies. I'm a big space ex
 <br>
 My programming study focus is the web and mobile development area, I'm studying frameworks, like Next js and Express and I intend to study Flutter, however, I'm always ready to learn new technologies and frameworks.
 
-<h3>🛰 Trying to have time to learn</h3>
-<ul>
-    <li>
-        <p>
-            Nextjs
-        </p>
-    </li>
-    <li>
-        <p>
-            Flutter
-        </p>
-    </li>
-    <li>
-        <p>
-            Nodejs
-        </p>
-    </li>
-</ul>
-<br>
-
 <h3>🧪 Github Status</h3>
 <div align="center">
     <a href="#">
