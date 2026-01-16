@@ -1,11 +1,8 @@
 <h1>Marco Porto</h1>
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/marco-porto-here/">
+    <a href="https://www.linkedin.com/in/m-porto">
         <img align="center" src="./assets/linkedin.png" height="28em"/>
-    </a>
-    <a href="https://twitter.com/marcoportohere">
-        <img align="center" src="./assets/twitter.png" height="28em"/>
     </a>
 </div>
 <br>
