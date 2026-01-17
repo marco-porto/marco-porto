@@ -1,6 +1,8 @@
-I'm Marco, a developer currently studying computer engineering, my goal is to become a full-stack web developer. My passion for programming and the power it brings to the world is what motivates me to learn more and more.
+I’m a software developer and software engineering student. My passion for programming and the impact it has on the world motivates me to keep learning and improving.
 <br>
-I love doing projects that involve Arduino or Raspberry pies. I'm a big space exploration nerd, everything that involves technology fascinates me.
+I’m currently working with NestJS and Svelte to develop solutions that improve processes and support teams at IPVC.
+<br>
+In my free time, I enjoy tinkering with 3D printing and electronics. I’m also a big space exploration nerd, anything involving technology fascinates me.
 
 <br>
 <div align="left">
