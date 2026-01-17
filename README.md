@@ -1,5 +1,3 @@
-<h1>Marco Porto</h1>
-
 <div align="left">
     <a href="https://www.linkedin.com/in/m-porto">
         <img align="center" src="./assets/linkedin.png" height="28em"/>
