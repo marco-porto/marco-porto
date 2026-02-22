@@ -1,4 +1,4 @@
-I’m a software developer and software engineering student. My passion for programming and the impact it has on the world motivates me to keep learning and improving.
+I’m a software engineer with a passion for programming and learning new things. I love exploring new technologies, trying out different tools, and taking on challenging projects.
 <br>
 I’m currently working with NestJS and Svelte to develop solutions that improve processes and support teams at IPVC.
 <br>
